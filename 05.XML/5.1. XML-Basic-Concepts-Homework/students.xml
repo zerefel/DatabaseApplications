@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students xmlns="urn:students">
+  <student>
+    <name type="xs:string" use="required">Ivan Todorov</name>
+    <gender type="xs:string" use="required">Male</gender>
+    <birth-date use="required" type="xs:date">1995-10-26T00:00:00</birth-date>
+    <phone-number type="xs:string">0895236523</phone-number>
+    <email use="required">ivan@ivan.com</email>
+    <university use="required">
+      <specialty type="xs:string" use="required">Software Engineering</specialty>
+      <faculty-number type="xs:string">125743743</faculty-number>
+      <exams use="required">
+        <exam use="required">
+          <exam-name type="xs:string" use="required">Database Applications</exam-name>
+          <date-taken type="xs:date" use="required">2015-10-26T00:00:00</date-taken>
+          <grade use="required">5</grade>
+        </exam>
+      </exams>
+    </university>
+  </student>
+<student>
+    <name type="xs:string" use="required">Elica Georgieva</name>
+    <gender type="xs:string" use="required">Feale</gender>
+    <birth-date use="required" type="xs:date">1992-10-26T00:00:00</birth-date>
+    <phone-number type="xs:string">08923191321</phone-number>
+    <email use="required">elica@qlapica.oha</email>
+    <university use="required">
+      <specialty type="xs:string" use="required">Software Engineering</specialty>
+      <faculty-number type="xs:string">523632622</faculty-number>
+      <exams use="required">
+        <exam use="required">
+          <exam-name type="xs:string" use="required">Databases Basics</exam-name>
+          <date-taken type="xs:date" use="required">2015-06-26T00:00:00</date-taken>
+          <grade use="required">6</grade>
+        </exam>
+      </exams>
+    </university>
+  </student>
+</students>
