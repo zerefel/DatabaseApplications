@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <albums>
+    <album>
+      <name>The Marshall Mathers LP</name>
+      <artist>Eminem</artist>
+      <year>2000</year>
+      <producer>Aftermath</producer>
+      <price>14.99</price>
+      <songs>
+        <song title="Kill You" duration="3:12" />
+        <song title="Stan" duration="4:10" />
+        <song title="Paul" duration="3:54" />
+        <song title="Who Knew" duration="5:12" />
+        <song title="Criminal" duration="2:50" />
+        <song title="Under The Influence" duration="4:59" />
+        <song title="Drug Ballad" duration="4:20" />
+        <song title="Marshall Mathers" duration="5:21" />
+      </songs>
+    </album>
+    <album>
+      <name>The Marshall Mathers LP2</name>
+      <artist>Eminem</artist>
+      <year>2013</year>
+      <producer>Shady Records, Aftermath</producer>
+      <price>14.99</price>
+      <songs>
+        <song title="Bad GUy" duration="2:15" />
+        <song title="Parking Lot" duration="4:21" />
+        <song title="Survival" duration="3:51" />
+        <song title="So Much Better" duration="3:13" />
+        <song title="Love Game" duration="4:01" />
+        <song title="Asshole" duration="2:43" />
+        <song title="Berzerk" duration="3:50" />
+        <song title="Rap God" duration="4:20" />
+      </songs>
+    </album>
+    <album>
+      <name>Dummy</name>
+      <artist>Portishead</artist>
+      <year>1994</year>
+      <producer>Unknown</producer>
+      <price>9.99</price>
+      <songs>
+        <song title="Mysterons" length="5:02" />
+        <song title="Sour Times" length="4:11" />
+        <song title="Strangers" length="3:55" />
+        <song title="It Could Be Sweet" length="4:16" />
+        <song title="Wandering Star" length="4:51" />
+        <song title="It's a Fire" length="3:49" />
+        <song title="Numb" length="3:54" />
+        <song title="Roads" length="5:02" />
+        <song title="Pedestal" length="3:39" />
+        <song title="Biscuit" length="5:01" />
+        <song title="Glory Box" length="5:06" />
+      </songs>
+    </album>
+  </albums>
+</catalog>
